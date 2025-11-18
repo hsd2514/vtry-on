@@ -1,0 +1,15 @@
+[project]
+name = "vtry-on"
+version = "0.1.0"
+description = "AI-powered Virtual Try-On App using Gemini and Streamlit"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "streamlit>=1.32.0",
+    "google-genai>=0.2.0",
+    "pillow>=10.0.0",
+    "numpy>=1.24.0",
+    "opencv-python>=4.8.0",
+    "python-dotenv>=1.0.0",
+]
+ 
